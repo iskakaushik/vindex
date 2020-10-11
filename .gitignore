@@ -125,4 +125,7 @@ DerivedData/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+## Intellij ##
+.idea
+
 # End of https://www.toptal.com/developers/gitignore/api/cmake,c++,xcode,vscode,macos

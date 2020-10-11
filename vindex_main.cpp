@@ -1,7 +1,9 @@
+#include "leveldb/db.h"
 #include <iostream>
 
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
-}
+  leveldb::DB *db;
 
+  std::cout << "Hello, World!" << std::endl;
+  return 0;
+}
